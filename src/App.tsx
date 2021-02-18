@@ -31,6 +31,8 @@ function App() {
         <hr/>
         <hr/>
         <h1> new branch </h1>
+        <h2> new branch </h2>
+
     </div>
   );
 }
